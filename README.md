@@ -15,3 +15,26 @@
 5. mọi project đều phải có dấu ấn cá nhân (tự do sáng tạo dấu ấn cá nhân, ko có bất kỳ khuôn mẫu nào!)
 6. deadline: 2025-09-28 (dấu thời gian sau ngày này là dead), cuối kì thầy sẽ tổng hợp link các repository này để chấm điểm.
 7. mọi hình thức vi phạm, chỉ cần 1 lần: đều bị cấm thi, miễn thi lại.
+### Bai lam
+Tạo solution
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (450)" src="https://github.com/user-attachments/assets/3775282d-7ea9-4269-a966-803a82755962" />
+tạo project
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (450)" src="https://github.com/user-attachments/assets/7b317e74-b736-4a24-ba53-29299b8aa506" />
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (454)" src="https://github.com/user-attachments/assets/a2ca6945-bc2e-4841-92c9-535909b801fc" />
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (455)" src="https://github.com/user-attachments/assets/8f7e131e-27e5-47c9-b018-4407fa7e5308" />
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (459)" src="https://github.com/user-attachments/assets/a023237c-5920-4bdf-bef8-adf4ee74889d" />
+
+##### Tạo file index.html
+Nháy chuột phải Project -> Add -> New Item -> HTML Page -> Đặt tên index.html  
+Tạo file index.html với HTML + CSS để hiển thị giao diện, và JavaScript để xử lý sự kiện.
+##### Tạo file api.aspx
+Nháy chuột phải Project -> Add -> New Item -> WebForm -> Đặt tên api.aspx  
+Mở api.aspx, để trống nội dung markup, thêm code cho file.
+##### Cấu hình IIS và domain
+Mở Control Panel -> Programs -> Turn Windows features on or off -> Tick Internet Information Services -> OK.  
+Mở IIS Manager -> Add Website  
+Thêm domain vào file hosts:
+  - Notepad -> Run as Administrator
+  - Open file C:\Windows\System32\drivers\etc\hosts
+#### Chạy thử chương trình
+<img width="1920" height="901" alt="Ảnh chụp màn hình (468)" src="https://github.com/user-attachments/assets/a3ed6c17-1d94-43f4-8ecb-d6b87e07d6e9" />

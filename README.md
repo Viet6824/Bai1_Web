@@ -23,6 +23,7 @@ tạo project
 <img width="1920" height="1080" alt="Ảnh chụp màn hình (454)" src="https://github.com/user-attachments/assets/a2ca6945-bc2e-4841-92c9-535909b801fc" />
 <img width="1920" height="1080" alt="Ảnh chụp màn hình (455)" src="https://github.com/user-attachments/assets/8f7e131e-27e5-47c9-b018-4407fa7e5308" />
 <img width="1920" height="1080" alt="Ảnh chụp màn hình (459)" src="https://github.com/user-attachments/assets/a023237c-5920-4bdf-bef8-adf4ee74889d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30f6d957-a8db-471c-9570-656317fc3134" />
 
 ##### Tạo file index.html
 Nháy chuột phải Project -> Add -> New Item -> HTML Page -> Đặt tên index.html  
